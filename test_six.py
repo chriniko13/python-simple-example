@@ -1,0 +1,1 @@
+# Note: some examples with protocols
