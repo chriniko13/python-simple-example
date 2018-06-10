@@ -103,4 +103,4 @@ ENV/
 .mypy_cache/
 
 # IntelliJ
-.idea/
+.idea/**
